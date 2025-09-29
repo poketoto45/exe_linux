@@ -4,11 +4,11 @@
 
 <span style="color: red; font-size: 18px"> exe debutant 2 </span>
 
-![etc] (https://github.com/poketoto45/exe_linux/blob/main/etc.png)
+![etc](https://github.com/poketoto45/exe_linux/blob/main/etc.png)
 
-![var/log/syslog] (https://github.com/poketoto45/exe_linux/blob/main/syslog.png)
+![var/log/syslog](https://github.com/poketoto45/exe_linux/blob/main/syslog.png)
 
-![tail] (https://github.com/poketoto45/exe_linux/blob/main/tail.png)
+![tail](https://github.com/poketoto45/exe_linux/blob/main/tail.png)
 
 ![error](https://github.com/poketoto45/exe_linux/blob/main/error.png)
 
