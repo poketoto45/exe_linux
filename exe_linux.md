@@ -15,3 +15,7 @@
 <span style="color: red; font-size: 18px"> exe debutant 3 </span>
 
 ![chmod](https://github.com/poketoto45/exe_linux/blob/main/chmod.png)
+
+<span style="color: red; font-size: 18px"> exe intermediaire 1 </span>
+
+![chmod](https://github.com/poketoto45/exe_linux/blob/main/+memo.png)
