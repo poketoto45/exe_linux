@@ -22,9 +22,9 @@
 
 <span style="color: red; font-size: 18px"> exe intermediaire 2 </span>
 
-![backups](https://github.com/poketoto45/exe_linux/blob/main/script_backups.png)
+![backups](https://github.com/poketoto45/exe_linux/blob/main/backups.png)
 
 ![executabilité](https://github.com/poketoto45/exe_linux/blob/main/executabilité.png)
 
-<span style="color: red; font-size: 18px"> exe intermediaire 2 </span>
+<span style="color: red; font-size: 18px"> exe intermediaire 3 </span>
 
